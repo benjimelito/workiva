@@ -1,0 +1,439 @@
+{
+  "color-brand-primary": {
+    "value": "#0074e8",
+    "description": "Observed 120x on https://www.workiva.com, https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management, https://www.workiva.com/fr, https://www.workiva.com/sg/security",
+    "usageCount": 120,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+      "https://www.workiva.com/fr",
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-d9d9d9": {
+    "value": "#d9d9d9",
+    "description": "Observed 78x on https://www.workiva.com, https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management, https://www.workiva.com/fr, https://www.workiva.com/sg/security",
+    "usageCount": 78,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+      "https://www.workiva.com/fr",
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-brand-background": {
+    "value": "#ffffff",
+    "description": "Observed 60x on https://www.workiva.com, https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management, https://www.workiva.com/fr, https://www.workiva.com/sg/security",
+    "usageCount": 60,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+      "https://www.workiva.com/fr",
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-brand-textprimary": {
+    "value": "#333333",
+    "description": "Observed 60x on https://www.workiva.com, https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management, https://www.workiva.com/fr, https://www.workiva.com/sg/security",
+    "usageCount": 60,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+      "https://www.workiva.com/fr",
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-brand-secondary": {
+    "value": "#ee2724",
+    "description": "Observed 30x on https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management"
+    ]
+  },
+  "color-brand-accent": {
+    "value": "#fcf4e8",
+    "description": "Observed 50x on https://www.workiva.com, https://www.workiva.com/fr",
+    "usageCount": 50,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr"
+    ]
+  },
+  "color-d8d8d8": {
+    "value": "#d8d8d8",
+    "description": "Observed 26x on https://www.workiva.com/sg/security",
+    "usageCount": 26,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-478f47": {
+    "value": "#478f47",
+    "description": "Observed 23x on https://www.workiva.com/sg/security",
+    "usageCount": 23,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-c0f3a7": {
+    "value": "#c0f3a7",
+    "description": "Observed 22x on https://www.workiva.com/sg/security",
+    "usageCount": 22,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-66cc66": {
+    "value": "#66cc66",
+    "description": "Observed 17x on https://www.workiva.com, https://www.workiva.com/fr, https://www.workiva.com/sg/security",
+    "usageCount": 17,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr",
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-595959": {
+    "value": "#595959",
+    "description": "Observed 16x on https://www.workiva.com/sg/security",
+    "usageCount": 16,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-666666": {
+    "value": "#666666",
+    "description": "Observed 14x on https://www.workiva.com/sg/security",
+    "usageCount": 14,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-rgb-252-244-232": {
+    "value": "rgb(252,244,232)",
+    "description": "Observed 14x on https://www.workiva.com, https://www.workiva.com/fr",
+    "usageCount": 14,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr"
+    ]
+  },
+  "color-cee1f7": {
+    "value": "#cee1f7",
+    "description": "Observed 13x on https://www.workiva.com/sg/security",
+    "usageCount": 13,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-rgb-255-255-255": {
+    "value": "rgb(255,255,255)",
+    "description": "Observed 12x on https://www.workiva.com, https://www.workiva.com/fr",
+    "usageCount": 12,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr"
+    ]
+  },
+  "color-fff": {
+    "value": "#fff",
+    "description": "Observed 10x on https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management"
+    ]
+  },
+  "color-brand-link": {
+    "value": "#0058af",
+    "description": "Observed 10x on https://www.workiva.com/sg/security",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-rgb-251-173-23": {
+    "value": "rgb(251,173,23)",
+    "description": "Observed 10x on https://www.workiva.com, https://www.workiva.com/fr",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr"
+    ]
+  },
+  "color-0066cc": {
+    "value": "#0066cc",
+    "description": "Observed 10x on https://www.workiva.com/sg/security",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-cbcbcb": {
+    "value": "#cbcbcb",
+    "description": "Observed 8x on https://www.workiva.com/sg/security",
+    "usageCount": 8,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-rgb-0-116-232": {
+    "value": "rgb(0,116,232)",
+    "description": "Observed 8x on https://www.workiva.com, https://www.workiva.com/fr",
+    "usageCount": 8,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr"
+    ]
+  },
+  "color-f9edbe": {
+    "value": "#f9edbe",
+    "description": "Observed 6x on https://www.workiva.com, https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management, https://www.workiva.com/fr, https://www.workiva.com/sg/security",
+    "usageCount": 6,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+      "https://www.workiva.com/fr",
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-f0c36d": {
+    "value": "#f0c36d",
+    "description": "Observed 6x on https://www.workiva.com, https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management, https://www.workiva.com/fr, https://www.workiva.com/sg/security",
+    "usageCount": 6,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+      "https://www.workiva.com/fr",
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-af7501": {
+    "value": "#af7501",
+    "description": "Observed 6x on https://www.workiva.com, https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management, https://www.workiva.com/fr, https://www.workiva.com/sg/security",
+    "usageCount": 6,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+      "https://www.workiva.com/fr",
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-rgb-102-204-102": {
+    "value": "rgb(102,204,102)",
+    "description": "Observed 6x on https://www.workiva.com, https://www.workiva.com/fr",
+    "usageCount": 6,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr"
+    ]
+  },
+  "color-003366": {
+    "value": "#003366",
+    "description": "Observed 4x on https://www.workiva.com/sg/security",
+    "usageCount": 4,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-000000": {
+    "value": "#000000",
+    "description": "Observed 4x on https://www.workiva.com, https://www.workiva.com/fr",
+    "usageCount": 4,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr"
+    ]
+  },
+  "color-rgb-51-51-51": {
+    "value": "rgb(51,51,51)",
+    "description": "Observed 4x on https://www.workiva.com, https://www.workiva.com/fr",
+    "usageCount": 4,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr"
+    ]
+  },
+  "color-f3f3f3": {
+    "value": "#f3f3f3",
+    "description": "Observed 3x on https://www.workiva.com/sg/security",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-b2b2b2": {
+    "value": "#b2b2b2",
+    "description": "Observed 3x on https://www.workiva.com/sg/security",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-e3e3e3": {
+    "value": "#e3e3e3",
+    "description": "Observed 3x on https://www.workiva.com/sg/security",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-fbad17": {
+    "value": "#fbad17",
+    "description": "Observed 3x on https://www.workiva.com/sg/security",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-ff9966": {
+    "value": "#ff9966",
+    "description": "Observed 2x on https://www.workiva.com/sg/security",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-ccc": {
+    "value": "#ccc",
+    "description": "Observed 2x on https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management"
+    ]
+  },
+  "color-rgb-0-123-181": {
+    "value": "rgb(0,123,181)",
+    "description": "Observed 2x on https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management"
+    ]
+  },
+  "color-rgb-136-137-144": {
+    "value": "rgb(136,137,144)",
+    "description": "Observed 2x on https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management"
+    ]
+  },
+  "color-85dd85": {
+    "value": "#85dd85",
+    "description": "Observed 2x on https://www.workiva.com/sg/security",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-ebebeb": {
+    "value": "#ebebeb",
+    "description": "Observed 2x on https://www.workiva.com/sg/security",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-cc99cc": {
+    "value": "#cc99cc",
+    "description": "Observed 2x on https://www.workiva.com/sg/security",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-232323": {
+    "value": "#232323",
+    "description": "Observed 2x on https://www.workiva.com, https://www.workiva.com/fr",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr"
+    ]
+  },
+  "color-rgb-0-87-175": {
+    "value": "rgb(0,87,175)",
+    "description": "Observed 2x on https://www.workiva.com, https://www.workiva.com/fr",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr"
+    ]
+  },
+  "color-a14ebf": {
+    "value": "#a14ebf",
+    "description": "Observed 1x on https://www.workiva.com/sg/security",
+    "usageCount": 1,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-66cc00": {
+    "value": "#66cc00",
+    "description": "Observed 1x on https://www.workiva.com/sg/security",
+    "usageCount": 1,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-f9cb76": {
+    "value": "#f9cb76",
+    "description": "Observed 1x on https://www.workiva.com/sg/security",
+    "usageCount": 1,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-cc3300": {
+    "value": "#cc3300",
+    "description": "Observed 1x on https://www.workiva.com/sg/security",
+    "usageCount": 1,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-0e0e0e": {
+    "value": "#0e0e0e",
+    "description": "Observed 1x on https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+    "usageCount": 1,
+    "observedOn": [
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale"
+    ]
+  },
+  "color-104810": {
+    "value": "#104810",
+    "description": "Observed 1x on https://www.workiva.com/sg/security",
+    "usageCount": 1,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "color-f15250": {
+    "value": "#f15250",
+    "description": "Observed 1x on https://www.workiva.com/sg/security",
+    "usageCount": 1,
+    "observedOn": [
+      "https://www.workiva.com/sg/security"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+/**
+ * SystemMiner Design Tokens
+ * Extracted from: https://www.workiva.com/
+ * Generated: 2026-04-08T10:05:10.886Z
+ * 
+ * Usage: Import this file in your index.css
+ * All tokens use --sm- prefix for namespacing
+ */
+
+:root {
+  /* ======================== */
+  /* Colors                   */
+  /* ======================== */
+  --sm-color-brand-primary: #0074e8; /* 120x */
+  --sm-color-d9d9d9: #d9d9d9; /* 78x */
+  --sm-color-brand-background: #ffffff; /* 60x */
+  --sm-color-brand-textprimary: #333333; /* 60x */
+  --sm-color-brand-secondary: #ee2724; /* 30x */
+  --sm-color-brand-accent: #fcf4e8; /* 50x */
+  --sm-color-d8d8d8: #d8d8d8; /* 26x */
+  --sm-color-478f47: #478f47; /* 23x */
+  --sm-color-c0f3a7: #c0f3a7; /* 22x */
+  --sm-color-66cc66: #66cc66; /* 17x */
+  --sm-color-595959: #595959; /* 16x */
+  --sm-color-666666: #666666; /* 14x */
+  --sm-color-rgb-252-244-232: rgb(252,244,232); /* 14x */
+  --sm-color-cee1f7: #cee1f7; /* 13x */
+  --sm-color-rgb-255-255-255: rgb(255,255,255); /* 12x */
+  --sm-color-fff: #fff; /* 10x */
+  --sm-color-brand-link: #0058af; /* 10x */
+  --sm-color-rgb-251-173-23: rgb(251,173,23); /* 10x */
+  --sm-color-0066cc: #0066cc; /* 10x */
+  --sm-color-cbcbcb: #cbcbcb; /* 8x */
+  --sm-color-rgb-0-116-232: rgb(0,116,232); /* 8x */
+  --sm-color-f9edbe: #f9edbe; /* 6x */
+  --sm-color-f0c36d: #f0c36d; /* 6x */
+  --sm-color-af7501: #af7501; /* 6x */
+  --sm-color-rgb-102-204-102: rgb(102,204,102); /* 6x */
+  --sm-color-003366: #003366; /* 4x */
+  --sm-color-000000: #000000; /* 4x */
+  --sm-color-rgb-51-51-51: rgb(51,51,51); /* 4x */
+  --sm-color-f3f3f3: #f3f3f3; /* 3x */
+  --sm-color-b2b2b2: #b2b2b2; /* 3x */
+  --sm-color-e3e3e3: #e3e3e3; /* 3x */
+  --sm-color-fbad17: #fbad17; /* 3x */
+  --sm-color-ff9966: #ff9966; /* 2x */
+  --sm-color-ccc: #ccc; /* 2x */
+  --sm-color-rgb-0-123-181: rgb(0,123,181); /* 2x */
+  --sm-color-rgb-136-137-144: rgb(136,137,144); /* 2x */
+  --sm-color-85dd85: #85dd85; /* 2x */
+  --sm-color-ebebeb: #ebebeb; /* 2x */
+  --sm-color-cc99cc: #cc99cc; /* 2x */
+  --sm-color-232323: #232323; /* 2x */
+  --sm-color-rgb-0-87-175: rgb(0,87,175); /* 2x */
+  --sm-color-a14ebf: #a14ebf; /* 1x */
+  --sm-color-66cc00: #66cc00; /* 1x */
+  --sm-color-f9cb76: #f9cb76; /* 1x */
+  --sm-color-cc3300: #cc3300; /* 1x */
+  --sm-color-0e0e0e: #0e0e0e; /* 1x */
+  --sm-color-104810: #104810; /* 1x */
+  --sm-color-f15250: #f15250; /* 1x */
+
+  /* ======================== */
+  /* Typography               */
+  /* ======================== */
+  --sm-font-family-1: Adelle Sans; /* 130x */
+  --sm-font-family-2: Helvetica Neue; /* 90x */
+  --sm-font-heading-3: 56px; /* 40x */
+  --sm-font-body-4: 18px; /* 40x */
+  --sm-font-family-5: Helvetica; /* 30x */
+  --sm-font-heading-6: 76px; /* 20x */
+  --sm-font-heading-7: 28px; /* 20x */
+  --sm-font-body-8: 22px; /* 20x */
+  --sm-font-heading-9: 27px; /* 20x */
+  --sm-font-heading-10: 14px; /* 10x */
+  --sm-font-heading-11: 80px; /* 10x */
+  --sm-font-size-12: 11; /* 6x */
+
+  /* ======================== */
+  /* Spacing                  */
+  /* ======================== */
+  --sm-spacing-xs: 4px; /* 60x */
+  --sm-spacing-xs-1: 0px; /* 26x */
+  --sm-spacing-sm: 7px 10px; /* 6x */
+  --sm-spacing-md: 11px 0px 13px; /* 6x */
+  --sm-spacing-md-4: 10px 0px; /* 4x */
+  --sm-spacing-xs-5: 0px 0px 3200px; /* 2x */
+  --sm-spacing-md-6: 14px 0px; /* 2x */
+
+  /* ======================== */
+  /* Effects                  */
+  /* ======================== */
+  --sm-radius-1: 18px; /* 80x */
+  --sm-radius-2: 41px; /* 10x */
+  --sm-radius-3: 3px; /* 4x */
+
+}

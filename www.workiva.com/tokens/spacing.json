@@ -1,0 +1,83 @@
+{
+  "spacing-xs": {
+    "value": "4px",
+    "description": "Observed 60x on https://www.workiva.com, https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management, https://www.workiva.com/fr, https://www.workiva.com/sg/security",
+    "usageCount": 60,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+      "https://www.workiva.com/fr",
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "spacing-xs-1": {
+    "value": "0px",
+    "description": "Observed 26x on https://www.workiva.com, https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management, https://www.workiva.com/fr, https://www.workiva.com/sg/security",
+    "usageCount": 26,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+      "https://www.workiva.com/fr",
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "spacing-sm": {
+    "value": "7px 10px",
+    "description": "Observed 6x on https://www.workiva.com, https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management, https://www.workiva.com/fr, https://www.workiva.com/sg/security",
+    "usageCount": 6,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+      "https://www.workiva.com/fr",
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "spacing-md": {
+    "value": "11px 0px 13px",
+    "description": "Observed 6x on https://www.workiva.com, https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management, https://www.workiva.com/fr, https://www.workiva.com/sg/security",
+    "usageCount": 6,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+      "https://www.workiva.com/fr",
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "spacing-md-4": {
+    "value": "10px 0px",
+    "description": "Observed 4x on https://www.workiva.com/fr/blog/building-risk-assessment-matrix, https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale, https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management, https://www.workiva.com/sg/security",
+    "usageCount": 4,
+    "observedOn": [
+      "https://www.workiva.com/fr/blog/building-risk-assessment-matrix",
+      "https://www.workiva.com/resources/ai-office-cfo-partnering-your-cio-evaluate-assess-and-deploy-ai-scale",
+      "https://www.workiva.com/es-es/blog/5-steps-effective-strategic-risk-management",
+      "https://www.workiva.com/sg/security"
+    ]
+  },
+  "spacing-xs-5": {
+    "value": "0px 0px 3200px",
+    "description": "Observed 2x on https://www.workiva.com, https://www.workiva.com/fr",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr"
+    ]
+  },
+  "spacing-md-6": {
+    "value": "14px 0px",
+    "description": "Observed 2x on https://www.workiva.com, https://www.workiva.com/fr",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.workiva.com",
+      "https://www.workiva.com/fr"
+    ]
+  }
+}
